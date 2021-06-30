@@ -1,6 +1,6 @@
-# Dual_BIOS_Switcher
+# Dual BIOS Switcher
 
-Dual_BIOS_Switcher is a tool to switch between two different spi flash memory chips from the hardware level by controlling the chip select signal.
+Dual BIOS Switcher is a tool to switch between two different spi flash memory chips from the hardware level by controlling the chip select signal.
 
 **License**
 
